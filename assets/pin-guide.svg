@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="430" viewBox="0 0 1280 430" role="img" aria-labelledby="title desc">
+  <title id="title">Pin MD Saver Plus in Chrome</title>
+  <desc id="desc">A compact browser mockup showing the Chrome extensions menu, the pin control next to MD Saver Plus, and the pinned toolbar icon.</desc>
+  <defs>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#0f172a" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="430" fill="#ffffff"/>
+  <text x="640" y="48" text-anchor="middle" fill="#12343b" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Pin MD Saver Plus for one-click Markdown saves</text>
+  <text x="640" y="84" text-anchor="middle" fill="#4f6670" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Open the puzzle menu, click the pin, then use the MD icon from the toolbar.</text>
+
+  <g transform="translate(70 118)" filter="url(#shadow)">
+    <rect width="1140" height="238" rx="24" fill="#f8fbff" stroke="#d7e8e8"/>
+    <rect x="0" y="0" width="1140" height="54" rx="24" fill="#eef5fb"/>
+    <circle cx="32" cy="27" r="8" fill="#f87171"/>
+    <circle cx="58" cy="27" r="8" fill="#fbbf24"/>
+    <circle cx="84" cy="27" r="8" fill="#34d399"/>
+    <rect x="130" y="15" width="560" height="24" rx="12" fill="#ffffff" stroke="#dce8f1"/>
+    <text x="154" y="32" fill="#8a9aa8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">https://example.com/article</text>
+
+    <g transform="translate(906 16)">
+      <circle cx="13" cy="12" r="18" fill="#ffffff" stroke="#c7d6e2"/>
+      <path d="M6 13h4l2-5h2l2 5h4l-3 3 1 5-5-3-5 3 1-5z" fill="#5f6f7a"/>
+    </g>
+    <g transform="translate(960 16)">
+      <circle cx="13" cy="12" r="18" fill="#ffffff" stroke="#c7d6e2"/>
+      <path d="M8 8h10v10H8z" fill="#12343b"/>
+      <path d="M10 11h6M10 14h6" stroke="#ffffff" stroke-width="1.4"/>
+    </g>
+    <g transform="translate(1014 16)">
+      <circle cx="13" cy="12" r="18" fill="#0f766e"/>
+      <text x="13" y="17" text-anchor="middle" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800">md</text>
+    </g>
+    <g transform="translate(1070 16)">
+      <circle cx="13" cy="12" r="18" fill="#ffffff" stroke="#c7d6e2"/>
+      <circle cx="13" cy="7" r="2.4" fill="#5f6f7a"/>
+      <circle cx="13" cy="12" r="2.4" fill="#5f6f7a"/>
+      <circle cx="13" cy="17" r="2.4" fill="#5f6f7a"/>
+    </g>
+
+    <g transform="translate(686 54)">
+      <rect width="310" height="164" rx="16" fill="#ffffff" stroke="#d7e8e8"/>
+      <text x="24" y="38" fill="#12343b" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Extensions</text>
+      <text x="24" y="68" fill="#4f6670" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">No access needed</text>
+      <rect x="18" y="88" width="274" height="52" rx="12" fill="#f2f7f7"/>
+      <circle cx="45" cy="114" r="15" fill="#0f766e"/>
+      <text x="45" y="119" text-anchor="middle" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800">md</text>
+      <text x="72" y="120" fill="#12343b" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">MD Saver Plus</text>
+      <path d="M246 101v28M236 112h20M240 129h12" stroke="#0f766e" stroke-width="5" stroke-linecap="round"/>
+    </g>
+
+    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">
+      <circle cx="920" cy="96" r="26" fill="#dc2626"/>
+      <text x="920" y="105" text-anchor="middle" fill="#ffffff" font-size="24">1</text>
+      <path d="M906 98c-36-20-54-22-86-17" fill="none" stroke="#dc2626" stroke-width="5" stroke-linecap="round"/>
+      <path d="M826 72l-18 12 20 8" fill="none" stroke="#dc2626" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+      <circle cx="960" cy="186" r="26" fill="#dc2626"/>
+      <text x="960" y="195" text-anchor="middle" fill="#ffffff" font-size="24">2</text>
+      <path d="M942 178c-42-12-72-8-94 18" fill="none" stroke="#dc2626" stroke-width="5" stroke-linecap="round"/>
+      <path d="M850 184l-9 20 21-3" fill="none" stroke="#dc2626" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+      <circle cx="1038" cy="94" r="26" fill="#dc2626"/>
+      <text x="1038" y="103" text-anchor="middle" fill="#ffffff" font-size="24">3</text>
+      <path d="M1020 82c-28-12-45-14-62-6" fill="none" stroke="#dc2626" stroke-width="5" stroke-linecap="round"/>
+      <path d="M964 67l-18 13 21 7" fill="none" stroke="#dc2626" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+
+    <text x="66" y="134" fill="#12343b" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">1. Open Extensions</text>
+    <text x="66" y="172" fill="#4f6670" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Click the puzzle piece in the Chrome toolbar.</text>
+    <text x="66" y="218" fill="#12343b" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">2. Pin MD Saver Plus</text>
+    <text x="66" y="256" fill="#4f6670" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Keep the md icon visible for fast saves.</text>
+  </g>
+</svg>
